@@ -14,6 +14,7 @@ Together (here's the about all Russian Community crypto enthusiast encluding me,
 - [Commonwealth KEPLR extention discussion translation](https://t.me/juno_ru/2761)
 - [NETA Ru description and translation](https://t.me/juno_ru/2541), [NETA UPDATES](https://t.me/juno_ru/3659)
 - Decentralized Name Service [testnet creation guide](https://t.me/juno_ru/2899), Mainnet [Announcement](https://t.me/juno_ru/3346)
+- Cosmostation [CW-20 Juno update](https://t.me/juno_ru/4590)
  # JunoSwap News 
 ![Скриншот 08-02-2022 151425](https://user-images.githubusercontent.com/92199696/152984920-8b59b050-8f78-45ab-b9c1-3ddce25a27c7.jpg)
 
