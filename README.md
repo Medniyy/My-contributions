@@ -1,5 +1,5 @@
 # My-contributions
-Here is my contributions for different Cosmos Ecosystem Chains
+Here is my contributions for JunoNetwork
 # JUNO Contributions
 I'm administrator of Juno Network Russian Community group created by [PostHuman](https://github.com/Antropocosmist)
 Together (here's the about all Russian Community crypto enthusiast encluding me, [PostHuman](https://github.com/Antropocosmist), [BronBro](https://github.com/CyberObiOne) and others! All things matter. 
