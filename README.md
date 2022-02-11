@@ -67,7 +67,7 @@ Cosmos News with Juno Mention <br /> [1](https://twitter.com/CosmosEcosystem/sta
 ![image](https://user-images.githubusercontent.com/92199696/152992547-5e3a935a-3418-4693-ac8e-c12ce546b0dc.png) <br /> 
 [7](https://twitter.com/CosmosEcosystem/status/1474449617777565698),<br /> [8](https://twitter.com/CosmosEcosystem/status/1482022751695249412)<br /> 
 ![image](https://user-images.githubusercontent.com/92199696/152995220-c9546ca0-33ee-43c3-9509-b9409f459b7a.png)<br />
-[9](https://twitter.com/CosmosEcosystem/status/1484649432050249735), [10](https://twitter.com/CosmosEcosystem/status/1487170430997876737),
+[9](https://twitter.com/CosmosEcosystem/status/1484649432050249735), [10](https://twitter.com/CosmosEcosystem/status/1487170430997876737), [11](https://twitter.com/CosmosEcosystem/status/1492208935415201792)
 
 
 - Videos <br />
