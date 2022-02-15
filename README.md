@@ -66,6 +66,9 @@ List of the Airdrops [including RAW,NETA](https://twitter.com/CosmosEcosystem/st
 ![image](https://user-images.githubusercontent.com/92199696/152998086-0b33ca97-8d41-425c-9d37-492f028c6dad.png)<br />
 Juno Ecosystem [Visualisation](https://twitter.com/CosmosEcosystem/status/1492477747163275269)<br />
 ![image](https://user-images.githubusercontent.com/92199696/153711995-e060829a-5cf3-4cbc-9f6d-169d0f051749.png)<br />
+Juno Network Weekly News [Graphics](https://twitter.com/CosmosEcosystem/status/1493599389457207306)<br/>
+![image](https://user-images.githubusercontent.com/92199696/154087640-120468d7-33be-4c26-9349-63ea25452f28.png)<br/>
+
 
 
 Cosmos News with Juno Mention <br /> [1](https://twitter.com/CosmosEcosystem/status/1459241853648347148), [2](https://twitter.com/CosmosEcosystem/status/1461720436841058318), [3](https://twitter.com/CosmosEcosystem/status/1464298546711175181), [4](https://twitter.com/CosmosEcosystem/status/1466853702355066892), [5](https://twitter.com/CosmosEcosystem/status/1469367168806567939), <br /> [6](https://twitter.com/CosmosEcosystem/status/1471901756569305097) <br /> 
