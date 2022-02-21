@@ -51,7 +51,7 @@ Together (here's the about all Russian Community crypto enthusiast encluding me,
 [52-JunoSwap](https://twitter.com/CosmosEcosystem/status/1487748487634685952), [53-JunoSwap](https://twitter.com/CosmosEcosystem/status/1487754296011763720), [54-DeNS](https://twitter.com/CosmosEcosystem/status/1488852348168507399),<br />
 [55-DAODAO](https://twitter.com/CosmosEcosystem/status/1489277262457311232),<br /> [56-Neta Meme](https://twitter.com/CosmosEcosystem/status/1489590146316095492)<br />
 ![image](https://user-images.githubusercontent.com/92199696/152997770-fd4a296d-3cab-451f-8752-cd9e16926aa0.png) <br />
-[57-JunoSwap Thread](https://twitter.com/CosmosEcosystem/status/1489877080917614593) <br /> [58-Juno Staking with Keplr Video guide](https://twitter.com/CosmosEcosystem/status/1493968066220380162) 
+[57-JunoSwap Thread](https://twitter.com/CosmosEcosystem/status/1489877080917614593) <br /> [58-Juno Staking with Keplr Video guide](https://twitter.com/CosmosEcosystem/status/1493968066220380162) [59-Juno mention](https://twitter.com/CosmosEcosystem/status/1495703643395342338)
 - Graphics <br />
 [Moneta Hack Announcement](https://twitter.com/CosmosEcosystem/status/1457424400127508488) <br /> 
 ![image](https://user-images.githubusercontent.com/92199696/152988298-85410a9b-a4ee-48f7-9cba-3b3c3df3f3fc.png) <br />
