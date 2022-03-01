@@ -19,6 +19,8 @@ Together (here's the about all Russian Community crypto enthusiast encluding me,
 - Racoon Airdrop Announcement [RU](https://t.me/juno_ru/4836)
 - Raw Token Snapshots Announcement [RU](https://t.me/juno_ru/4906)
 - Neta incentivized pools ann [RU](https://t.me/juno_ru/5043)
+- Added big thread about MARBLE DAO and how to buy, stake, vote etc. [RU](https://t.me/juno_ru/5456)
+- 
  # JunoSwap News 
 ![Скриншот 08-02-2022 151425](https://user-images.githubusercontent.com/92199696/152984920-8b59b050-8f78-45ab-b9c1-3ddce25a27c7.jpg)
 
