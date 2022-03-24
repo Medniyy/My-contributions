@@ -11,6 +11,7 @@ Together (here's the about all Russian Community crypto enthusiast encluding me,
 # Telegram News and Updates for whole Juno Ecosystem
 - [JunoMint News](https://t.me/juno_ru/2624)
 - [RAW BLACKPAPER RU TRANSLATION ANNOUNCEMENT](https://t.me/juno_ru/3638)
+- Lupercalia Upgrade Translation [RU](https://medium.com/@Medniyy/1e7b872bc196)
 - [Commonwealth KEPLR extention discussion translation](https://t.me/juno_ru/2761)
 - [NETA Ru description and translation](https://t.me/juno_ru/2541), [NETA UPDATES](https://t.me/juno_ru/3659)
 - Decentralized Name Service [testnet creation guide](https://t.me/juno_ru/2899), Mainnet [Announcement](https://t.me/juno_ru/3346)
