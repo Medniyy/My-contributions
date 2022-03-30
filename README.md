@@ -23,7 +23,8 @@ Together (here's the about all Russian Community crypto enthusiast encluding me,
 - Added big thread about MARBLE DAO and how to buy, stake, vote etc. [RU](https://t.me/juno_ru/5456)
 - Added DENS Token drop announcement [RU](https://t.me/juno_ru/5680)
 - Created MarbleDAO community group [RU](https://t.me/MarbleDAORU)
-- 
+- Latest Juno News Announcement[RU](https://t.me/juno_ru/7368)
+
  # JunoSwap News 
 ![Скриншот 08-02-2022 151425](https://user-images.githubusercontent.com/92199696/152984920-8b59b050-8f78-45ab-b9c1-3ddce25a27c7.jpg)
 
