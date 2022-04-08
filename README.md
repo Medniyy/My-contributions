@@ -24,6 +24,7 @@ Together (here's the about all Russian Community crypto enthusiast encluding me,
 - Added DENS Token drop announcement [RU](https://t.me/juno_ru/5680)
 - Created MarbleDAO community group [RU](https://t.me/MarbleDAORU)
 - Latest Juno News Announcement[RU](https://t.me/juno_ru/7368)
+- Relayer announcement after halt [RU](https://t.me/juno_ru/8237)
 
  # JunoSwap News 
 ![Скриншот 08-02-2022 151425](https://user-images.githubusercontent.com/92199696/152984920-8b59b050-8f78-45ab-b9c1-3ddce25a27c7.jpg)
@@ -57,6 +58,8 @@ Together (here's the about all Russian Community crypto enthusiast encluding me,
 [52-JunoSwap](https://twitter.com/CosmosEcosystem/status/1487748487634685952), [53-JunoSwap](https://twitter.com/CosmosEcosystem/status/1487754296011763720), [54-DeNS](https://twitter.com/CosmosEcosystem/status/1488852348168507399),<br />
 [55-DAODAO](https://twitter.com/CosmosEcosystem/status/1489277262457311232),<br /> [56-Neta Meme](https://twitter.com/CosmosEcosystem/status/1489590146316095492)<br />
 ![image](https://user-images.githubusercontent.com/92199696/152997770-fd4a296d-3cab-451f-8752-cd9e16926aa0.png) <br />
+[Juno Team Encouraging meme](https://twitter.com/CosmosEcosystem/status/1511990203564670978) <br />
+![image](https://user-images.githubusercontent.com/92199696/162453555-4cc1bdc1-35c2-4869-ac29-1e6dfcc0a98c.png) <br />
 [57-JunoSwap Thread](https://twitter.com/CosmosEcosystem/status/1489877080917614593) <br /> [58-Juno Staking with Keplr Video guide](https://twitter.com/CosmosEcosystem/status/1493968066220380162) [59-Juno mention](https://twitter.com/CosmosEcosystem/status/1495703643395342338)
 [60-Dens DROP](https://twitter.com/CosmosEcosystem/status/1499743403071971329) <br />
 - Graphics <br />
