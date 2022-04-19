@@ -25,6 +25,7 @@ Together (here's the about all Russian Community crypto enthusiast encluding me,
 - Created MarbleDAO community group [RU](https://t.me/MarbleDAORU)
 - Latest Juno News Announcement[RU](https://t.me/juno_ru/7368)
 - Relayer announcement after halt [RU](https://t.me/juno_ru/8237)
+- [RAW TOKENOMICS AND DISTRIBUTION RU TRANSLATION](https://medium.com/@Medniyy/raw-fairdrop-ru-bbe9e4ef8318)
 
  # JunoSwap News 
 ![Скриншот 08-02-2022 151425](https://user-images.githubusercontent.com/92199696/152984920-8b59b050-8f78-45ab-b9c1-3ddce25a27c7.jpg)
