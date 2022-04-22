@@ -81,7 +81,11 @@ Juno Ecosystem [Visualisation](https://twitter.com/CosmosEcosystem/status/149247
 Juno Network Weekly News [Graphics](https://twitter.com/CosmosEcosystem/status/1493599389457207306)<br/>
 ![image](https://user-images.githubusercontent.com/92199696/154087640-120468d7-33be-4c26-9349-63ea25452f28.png)<br/>
 Juno Network Weekly News [Graphic 01-08.03](https://twitter.com/CosmosEcosystem/status/1501287295957229573)<br/>
-![image](https://user-images.githubusercontent.com/92199696/157317451-c48aa928-e498-4995-9bfe-3478990b1427.png)br/>
+![image](https://user-images.githubusercontent.com/92199696/157317451-c48aa928-e498-4995-9bfe-3478990b1427.png) <br/>
+JunoSwap RAW Infographics [Twitter Post](https://twitter.com/CosmosEcosystem/status/1517552252348678144) <br/>
+![image](https://user-images.githubusercontent.com/92199696/164763435-2f6b28f8-aca1-4497-b61c-af23f39b2fa2.png) <br/>
+![image](https://user-images.githubusercontent.com/92199696/164763624-4782115f-7a28-4625-b486-8534c2a84cbb.png)
+
 
 
 
