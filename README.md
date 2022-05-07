@@ -62,7 +62,7 @@ Together (here's the about all Russian Community crypto enthusiast encluding me,
 [Juno Team Encouraging meme](https://twitter.com/CosmosEcosystem/status/1511990203564670978) <br />
 ![image](https://user-images.githubusercontent.com/92199696/162453555-4cc1bdc1-35c2-4869-ac29-1e6dfcc0a98c.png) <br />
 [57-JunoSwap Thread](https://twitter.com/CosmosEcosystem/status/1489877080917614593) <br /> [58-Juno Staking with Keplr Video guide](https://twitter.com/CosmosEcosystem/status/1493968066220380162) [59-Juno mention](https://twitter.com/CosmosEcosystem/status/1495703643395342338)
-[60-Dens DROP](https://twitter.com/CosmosEcosystem/status/1499743403071971329) <br />
+[60-Dens DROP](https://twitter.com/CosmosEcosystem/status/1499743403071971329) <br /> [HOWL Mention](https://twitter.com/CosmosEcosystem/status/1522910251145641985),<br />  
 - Graphics <br />
 [Moneta Hack Announcement](https://twitter.com/CosmosEcosystem/status/1457424400127508488) <br /> 
 ![image](https://user-images.githubusercontent.com/92199696/152988298-85410a9b-a4ee-48f7-9cba-3b3c3df3f3fc.png) <br />
@@ -94,7 +94,7 @@ Cosmos News with Juno Mention <br /> [1](https://twitter.com/CosmosEcosystem/sta
 ![image](https://user-images.githubusercontent.com/92199696/152992547-5e3a935a-3418-4693-ac8e-c12ce546b0dc.png) <br /> 
 [7](https://twitter.com/CosmosEcosystem/status/1474449617777565698),<br /> [8](https://twitter.com/CosmosEcosystem/status/1482022751695249412)<br /> 
 ![image](https://user-images.githubusercontent.com/92199696/152995220-c9546ca0-33ee-43c3-9509-b9409f459b7a.png)<br />
-[9](https://twitter.com/CosmosEcosystem/status/1484649432050249735), [10](https://twitter.com/CosmosEcosystem/status/1487170430997876737), [11](https://twitter.com/CosmosEcosystem/status/1492208935415201792), <br /> [12](https://twitter.com/CosmosEcosystem/status/1494745556207423498), <br /> [13](https://twitter.com/CosmosEcosystem/status/1515350571162742799)
+[9](https://twitter.com/CosmosEcosystem/status/1484649432050249735), [10](https://twitter.com/CosmosEcosystem/status/1487170430997876737), [11](https://twitter.com/CosmosEcosystem/status/1492208935415201792), <br /> [12](https://twitter.com/CosmosEcosystem/status/1494745556207423498), [13](https://twitter.com/CosmosEcosystem/status/1515350571162742799), [14](https://twitter.com/CosmosEcosystem/status/1522652646645063680)
 
 
 
