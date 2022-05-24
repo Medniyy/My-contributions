@@ -97,7 +97,7 @@ Cosmos News with Juno Mention <br /> [1](https://twitter.com/CosmosEcosystem/sta
 ![image](https://user-images.githubusercontent.com/92199696/152992547-5e3a935a-3418-4693-ac8e-c12ce546b0dc.png) <br /> 
 [7](https://twitter.com/CosmosEcosystem/status/1474449617777565698),<br /> [8](https://twitter.com/CosmosEcosystem/status/1482022751695249412)<br /> 
 ![image](https://user-images.githubusercontent.com/92199696/152995220-c9546ca0-33ee-43c3-9509-b9409f459b7a.png)<br />
-[9](https://twitter.com/CosmosEcosystem/status/1484649432050249735), [10](https://twitter.com/CosmosEcosystem/status/1487170430997876737), [11](https://twitter.com/CosmosEcosystem/status/1492208935415201792), <br /> [12](https://twitter.com/CosmosEcosystem/status/1494745556207423498), [13](https://twitter.com/CosmosEcosystem/status/1515350571162742799), [14](https://twitter.com/CosmosEcosystem/status/1522652646645063680)
+[9](https://twitter.com/CosmosEcosystem/status/1484649432050249735), [10](https://twitter.com/CosmosEcosystem/status/1487170430997876737), [11](https://twitter.com/CosmosEcosystem/status/1492208935415201792), <br /> [12](https://twitter.com/CosmosEcosystem/status/1494745556207423498), [13](https://twitter.com/CosmosEcosystem/status/1515350571162742799), [14](https://twitter.com/CosmosEcosystem/status/1522652646645063680) <br/> [15](https://twitter.com/CosmosEcosystem/status/1527729803079589889)
 
 
 
@@ -112,7 +112,9 @@ Our guest was: <br />
 PostHuman validator, BronBro validator, Kava, Everstake validator, Stigga validator and also Chihuahua Chain, Juno, Terra, Cyber, LikeCoin, Sputnik, Fetch, Starname, Omniflix community members. Together we are spreading the word about whole Cosmos Ecosystem and also Juno.<br />
 ![image](https://user-images.githubusercontent.com/92199696/153003020-3352a915-a50f-4b08-ac6c-c4f5ba0e17d1.png)<br />
 Here's the list of videos:
-[1](https://www.youtube.com/watch?v=-Vh11IKW2s8&t=6371s), [2](https://www.youtube.com/watch?v=hBahRIN9EZc&t=5885s), [3](https://www.youtube.com/watch?v=Xttxgoenpl4&t=1252s), [4](https://www.youtube.com/watch?v=LJ1UNcsNCOw&t=193s), [5](https://www.youtube.com/watch?v=8CkvX_2odvk)
+[1](https://www.youtube.com/watch?v=-Vh11IKW2s8&t=6371s), [2](https://www.youtube.com/watch?v=hBahRIN9EZc&t=5885s), [3](https://www.youtube.com/watch?v=Xttxgoenpl4&t=1252s), [4](https://www.youtube.com/watch?v=LJ1UNcsNCOw&t=193s), [5](https://www.youtube.com/watch?v=8CkvX_2odvk)<br/>
+![image](https://user-images.githubusercontent.com/92199696/170069833-7800d180-91ea-49bc-ab7e-b4f7c70be933.png)<br/>
+[How to be eligible for all Cosmos Ecosystem Drops with Juno, Neta, Marble mention](https://youtu.be/N4h-a4GDWkM?t=217)
  - Also i have my own YouTube videos with "HowTo" istructions:<br />
  Russian language FAQ [How to use JunoSwap](https://www.youtube.com/watch?v=4bL8m9mq1d4)<br />
  ![image](https://user-images.githubusercontent.com/92199696/153003798-2b81f236-7b14-4cf0-bd80-2cfd81a18f11.png)<br />
