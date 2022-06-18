@@ -1,5 +1,5 @@
 # My-contributions
-Here is my contributions for JunoNetwork
+Here is my contributions for Juno Network
 # JUNO Contributions
 I'm administrator of Juno Network Russian Community group created by [PostHuman](https://github.com/Antropocosmist)
 Together (here's the about all Russian Community crypto enthusiast encluding me, [PostHuman](https://github.com/Antropocosmist), [BronBro](https://github.com/CyberObiOne) and others! All things matter. 
@@ -85,6 +85,7 @@ Juno Network Weekly News [Graphic 01-08.03](https://twitter.com/CosmosEcosystem/
 ![image](https://user-images.githubusercontent.com/92199696/157317451-c48aa928-e498-4995-9bfe-3478990b1427.png) <br/>
 [Juno Weekly News 03.05-10.05](https://twitter.com/CosmosEcosystem/status/1524072230816296962)<br/>
 ![image](https://user-images.githubusercontent.com/92199696/167683903-cb6635b7-cc7d-4b83-93c8-539a8f9a9320.png)<br/>
+[JUNO WEEKLY NEWS 8.06](https://twitter.com/CosmosEcosystem/status/1534616772237836290)
 JunoSwap RAW Infographics [Twitter Post](https://twitter.com/CosmosEcosystem/status/1517552252348678144) <br/>
 ![image](https://user-images.githubusercontent.com/92199696/164763435-2f6b28f8-aca1-4497-b61c-af23f39b2fa2.png) <br/>
 ![image](https://user-images.githubusercontent.com/92199696/164763624-4782115f-7a28-4625-b486-8534c2a84cbb.png)
@@ -97,7 +98,7 @@ Cosmos News with Juno Mention <br /> [1](https://twitter.com/CosmosEcosystem/sta
 ![image](https://user-images.githubusercontent.com/92199696/152992547-5e3a935a-3418-4693-ac8e-c12ce546b0dc.png) <br /> 
 [7](https://twitter.com/CosmosEcosystem/status/1474449617777565698),<br /> [8](https://twitter.com/CosmosEcosystem/status/1482022751695249412)<br /> 
 ![image](https://user-images.githubusercontent.com/92199696/152995220-c9546ca0-33ee-43c3-9509-b9409f459b7a.png)<br />
-[9](https://twitter.com/CosmosEcosystem/status/1484649432050249735), [10](https://twitter.com/CosmosEcosystem/status/1487170430997876737), [11](https://twitter.com/CosmosEcosystem/status/1492208935415201792), <br /> [12](https://twitter.com/CosmosEcosystem/status/1494745556207423498), [13](https://twitter.com/CosmosEcosystem/status/1515350571162742799), [14](https://twitter.com/CosmosEcosystem/status/1522652646645063680) <br/> [15](https://twitter.com/CosmosEcosystem/status/1527729803079589889), [16](https://twitter.com/CosmosEcosystem/status/1530258472830394368)
+[9](https://twitter.com/CosmosEcosystem/status/1484649432050249735), [10](https://twitter.com/CosmosEcosystem/status/1487170430997876737), [11](https://twitter.com/CosmosEcosystem/status/1492208935415201792), <br /> [12](https://twitter.com/CosmosEcosystem/status/1494745556207423498), [13](https://twitter.com/CosmosEcosystem/status/1515350571162742799), [14](https://twitter.com/CosmosEcosystem/status/1522652646645063680) <br/> [15](https://twitter.com/CosmosEcosystem/status/1527729803079589889), [16](https://twitter.com/CosmosEcosystem/status/1530258472830394368), [17](https://twitter.com/CosmosEcosystem/status/1532800528421462016) <br/> [18](https://twitter.com/CosmosEcosystem/status/1535327662339661824), [19](https://twitter.com/CosmosEcosystem/status/1538182126331371521)
 
 
 
